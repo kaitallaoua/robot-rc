@@ -2,7 +2,7 @@
 <Project Type="Project" LVVersion="18008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
-	<Property Name="varPersistentID:{19CDA37A-6E4B-4BAB-8715-D239F680FEBB}" Type="Ref">/Karims-myRIO/code/Motor Speeds.lvlib/Motor Speeds</Property>
+	<Property Name="varPersistentID:{19CDA37A-6E4B-4BAB-8715-D239F680FEBB}" Type="Ref">/Karims-myRIO/code/Motor Speeds.lvlib/CTL X &amp; Y</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="IOScan.Faults" Type="Str"></Property>
 		<Property Name="IOScan.NetVarPeriod" Type="UInt">100</Property>
@@ -27,7 +27,7 @@
 			</Item>
 			<Item Name="myRIO Project Documentation.html" Type="Document" URL="../documentation/myRIO Project Documentation.html"/>
 		</Item>
-		<Item Name="local drive robot.vi" Type="VI" URL="../code/local drive robot.vi"/>
+		<Item Name="local drive robot.vi" Type="VI" URL="../code/main/local drive robot.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Input Data.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/inputDevices.llb/Acquire Input Data.vi"/>
