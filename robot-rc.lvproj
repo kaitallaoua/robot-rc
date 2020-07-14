@@ -28,6 +28,7 @@
 			<Item Name="myRIO Project Documentation.html" Type="Document" URL="../documentation/myRIO Project Documentation.html"/>
 		</Item>
 		<Item Name="local drive robot.vi" Type="VI" URL="../code/main/local drive robot.vi"/>
+		<Item Name="raw stick values to [-1.0, 1.0].vi" Type="VI" URL="../code/package/raw stick values to [-1.0, 1.0].vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Input Data.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/inputDevices.llb/Acquire Input Data.vi"/>
